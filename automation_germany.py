@@ -42,10 +42,10 @@ dst_data="./"
 ## amsterdam
 #links=["https://service2.diplo.de/rktermin/extern/appointment_showMonth.do?locationCode=amst&realmId=1113&categoryId=2324",
 #       "https://service2.diplo.de/rktermin/extern/appointment_showMonth.do?locationCode=amst&realmId=1113&categoryId=2324&dateStr=03.05.2023"]
-# Ismbd
-links=["https://service2.diplo.de/rktermin/extern/appointment_showMonth.do?locationCode=isla&realmId=108&categoryId=203",
-      "https://service2.diplo.de/rktermin/extern/appointment_showMonth.do?locationCode=isla&realmId=108&categoryId=203&dateStr=03.03.2023",
-      "https://service2.diplo.de/rktermin/extern/appointment_showMonth.do?locationCode=isla&realmId=108&categoryId=203&dateStr=03.05.2023"]
+# Stoc
+links=["https://service2.diplo.de/rktermin/extern/appointment_showMonth.do?locationCode=stoc&realmId=579&categoryId=945",
+      "https://service2.diplo.de/rktermin/extern/appointment_showMonth.do?locationCode=stoc&realmId=579&categoryId=945&dateStr=20.09.2023",
+      "https://service2.diplo.de/rktermin/extern/appointment_showMonth.do?locationCode=stoc&realmId=579&categoryId=945&dateStr=20.10.2023"]
 
 checkstatus=100
 currtix=0
